@@ -1,0 +1,62 @@
+{
+  "submissions_tutorial": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "submissions": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "submissions_sop": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "submissions_mop": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "players_tutorial": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "players": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "players_sop": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "players_mop": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "matches_tutorial": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "matches": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "matches_sop": {
+    "aggregate": {
+      "count": 0
+    }
+  },
+  "matches_mop": {
+    "aggregate": {
+      "count": 0
+    }
+  }
+}
